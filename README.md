@@ -1,13 +1,7 @@
-# CV_Portfolio
+#Online Portfolio
+
 My CV Portfolio for computer science and tech.
 
-#Dominique Charlebois
-
-
-**Online Portfolio**
-
-
---------------
-
+##Dominique Charlebois
 
 [Website](http://dominiquecharlebois.com/ "Website")
