@@ -10,6 +10,4 @@ My CV Portfolio for computer science and tech.
 --------------
 
 
-Created with HTML/CSS/Javascript/Jquery.
-
 [Website](http://dominiquecharlebois.com/ "Website")
