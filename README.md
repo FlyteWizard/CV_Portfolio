@@ -1,11 +1,13 @@
-#Portfolio
+# Portfolio
 
-##Dominique Charlebois
+## Dominique Charlebois
 
 ### Websites:
 
 * [Main Website](http://dominiquecharlebois.com/ "Main Website")
 * [Photography Website](http://photography.dominiquecharlebois.com/ "Photography Website")
+* [Teaching Website](http://teaching.dominiquecharlebois.com/ "Teaching Website")
+* [Acting Website](http://acting.dominiquecharlebois.com/ "Acting Website")
 
 ### Articles:
 
