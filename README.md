@@ -1,6 +1,6 @@
 ![Header Image](images/Header.png)
 
-#Hello!
+# Hello!
 
 My name is Dominique Charlebois 🐱 if you haven't guessed yet. I am in my 2nd/3rd year of education at UVic 🎉. I am in the engineering program following the computer science learning path. I have completed a co-op at a local startup and I plan on doing more. 😊 I enjoy frontend development and design. 
 
