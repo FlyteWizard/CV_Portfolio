@@ -8,7 +8,7 @@ Down below will be links to my social media, my personal websites and my publica
 
 Feel free to stalk me on the internet! 
 
---
+---
 
 ### Link to Websites
 
@@ -53,6 +53,6 @@ I have some articles on Medium and some on Tookapic. AND I'm obviously not an ex
 * [How To Set Up Your Photography Space](https://blog.tookapic.com/how-to-set-up-your-photography-space?u=984 "How To Set Up Your Photography Space")
 * [How picking a theme can help you with your 365 project](https://blog.tookapic.com/how-picking-a-theme-can-help-you-with-your-365-project?u=984 "How picking a theme can help you with your 365 project")
 
---
+---
 
 <img src="images/Signature.png">
