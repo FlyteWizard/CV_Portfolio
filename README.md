@@ -55,4 +55,4 @@ I have some articles on Medium and some on Tookapic. AND I'm obviously not an ex
 
 --
 
-<img src="images/Signature.svg" width="100%" height="144">
+<img src="images/Signature.png">
