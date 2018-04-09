@@ -14,7 +14,7 @@ Feel free to stalk me on the internet!
 
 Here are my two websites. The first has been designed and created by me and the second is hosted by Tookapic. Tookapic is a 365 Day Challange website where you can post daily pictures.
 
-My personal website has links to my social media and a link to my [resume](http://dominiquecharlebois.com/resume.pdf). It is mainly for Hiring Managers and people interested in my work.
+My personal website has links to my social media and a link to my [resume](http://dominiquecharlebois.com/resume). It is mainly for Hiring Managers and people interested in my work.
 
 The third website by Tookapic host all my daily photographs. It is a hobby that I truly enjoy. You are welcomed to check out my pictures. But beware of "streak pics", some days aren't that glorious. 
 
