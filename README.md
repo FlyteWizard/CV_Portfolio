@@ -12,22 +12,18 @@ Feel free to stalk me on the internet!
 
 ### Link to Websites
 
-Here are my three websites. The first two have been designed and created by me and the third is hosted by Tookapic. Tookapic is a 365 Day Challange website where you can post daily pictures.
+Here are my two websites. The first has been designed and created by me and the second is hosted by Tookapic. Tookapic is a 365 Day Challange website where you can post daily pictures.
 
 My personal website has links to my social media and a link to my [resume](http://dominiquecharlebois.com/resume.pdf). It is mainly for Hiring Managers and people interested in my work.
-
-The teaching website is meant for learning. I post my learnings on Medium and create beginner friendly articles. You will find tutorials and course presentations on this website. 
 
 The third website by Tookapic host all my daily photographs. It is a hobby that I truly enjoy. You are welcomed to check out my pictures. But beware of "streak pics", some days aren't that glorious. 
 
 * [Personal Website](http://dominiquecharlebois.com/ "Website")
-* [Teaching Website](http://teaching.dominiquecharlebois.com/ "Teaching Website")
 * [Photography Website](http://photography.dominiquecharlebois.com/ "Photography Website")
 
 ### Link to Social Media
 
 [![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-FlyteWizard-blue.svg?colorA=373a3c&colorB=1da1f2&style=flat)](https://twitter.com/flytewizard)
-[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-FlyteWizard-red.svg?colorA=373a3c&colorB=c13584&style=flat)](https://www.instagram.com/flytewizard/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominique%20Charlebois-blue.svg?colorA=373a3c&colorB=0077b5&style=flat)](https://www.linkedin.com/in/dominiquecharlebois/)
 [![Work Github](https://img.shields.io/badge/Work%20Github-Dominique%20Charlebois-lightgrey.svg?colorA=373a3c&colorB=9f9f9f&style=flat)](https://github.com/dominiquecharlebois)
 
