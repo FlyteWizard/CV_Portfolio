@@ -2,11 +2,9 @@
 
 # Hello!
 
-My name is Dominique Charlebois 🐱 if you haven't guessed yet. I am in my 2nd/3rd year of education at UVic 🎉. I am in the engineering program following the computer science learning path. I have completed a co-op at a local startup, a work study with UVic, a pilot project with UVic, a part-time employment at a local startup, and I plan on doing more. 😊 I enjoy frontend development and design. 
+My name is Dominique Charlebois 🐱 if you haven't guessed yet. I am in my 2nd/3rd year at UVic 🎉. I am studying Computer Science. I have completed an internship with a local startup, a work study with UVic, a pilot project with UVic, and a part-time remote employment with a local startup. 😊 I enjoy frontend development and design. 
 
 Down below will be links to my social media, and my personal websites. 
-
-Feel free to stalk me on the internet! 
 
 ---
 
@@ -26,7 +24,7 @@ The second website by Tookapic host all my daily photographs. It is a hobby that
 [![Work Github](https://img.shields.io/badge/Work%20Github-Dominique%20Charlebois-lightgrey.svg?colorA=373a3c&colorB=9f9f9f&style=flat)](https://github.com/dominiquecharlebois)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominique%20Charlebois-blue.svg?colorA=373a3c&colorB=0077b5&style=flat)](https://www.linkedin.com/in/dominiquecharlebois/)
 
-I have other social media, but they are only reserved for close friends and family. Please respect my online privacy. 😊
+Please respect my online privacy. 😊
 
 ---
 
