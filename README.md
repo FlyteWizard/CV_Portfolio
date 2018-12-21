@@ -19,7 +19,7 @@ My personal website has links to my social media and a link to my [resume](http:
 The second website by Tookapic host all my daily photographs. It is a hobby that I truly enjoy. You are welcomed to check out my pictures. But beware of "streak pics", some days aren't that glorious. 
 
 * [Personal Website](http://dominiquecharlebois.com/ "Website")
-* [Photography Website](http://photography.dominiquecharlebois.com/ "Photography Website")
+* [Photography Journey](https://tookapic.com/flytewizard "Photography Journey")
 
 ### Link to Social Media
 
