@@ -10,11 +10,11 @@ Down below will be links to my social media, and my personal websites.
 
 ### Link to Websites
 
-Here are my two websites. The first has been designed and created by me and the second is hosted by Tookapic. Tookapic is a 365 Day Challange website where you can post daily pictures.
+Here are my two websites. The first has been designed and created by me and the second is hosted by Tookapic.
 
 My personal website has links to my social media and a link to my [resume](http://dominiquecharlebois.com/resume). It is mainly for Hiring Managers and people interested in my work.
 
-The second website by Tookapic host all my daily photographs. It is a hobby that I truly enjoy. You are welcomed to check out my pictures. But beware of "streak pics", some days aren't that glorious. 
+The second website by Tookapic host all my daily photographs. It is a hobby that I truly enjoy. You are welcomed to check out my pictures.
 
 * [Personal Website](http://dominiquecharlebois.com/ "Website")
 * [Photography Journey](https://tookapic.com/flytewizard "Photography Journey")
